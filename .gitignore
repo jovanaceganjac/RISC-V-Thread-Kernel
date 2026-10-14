@@ -1,0 +1,6 @@
+build/
+.idea/
+kernel
+kernel.asm
+*.o
+*.d
